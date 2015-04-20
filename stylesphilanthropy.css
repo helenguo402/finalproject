@@ -33,8 +33,10 @@ h3{
 /* images */
 img{
   width: 500px;
+  padding-top: 10%;
 }
-/* columns */
+
+
 .col-1{
   width: 8.33%;
 }
