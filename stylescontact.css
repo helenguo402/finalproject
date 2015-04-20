@@ -1,0 +1,72 @@
+/* navagation bar */
+.nav{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  font-family: didot;
+  font-weight: bold;
+  font-size: 25px;
+}
+a:link{
+  color: black;
+  text-decoration: none;
+}
+a:visited{
+  color:black;
+}
+a:hover{
+  text-decoration: none;
+  color:pink;
+}
+h2{
+  font-size: 50px;
+  color: black;
+  font-family: didot;
+  position: relative;
+}
+h3{
+  font-size: 25px;
+  color: black;
+  font-family: didot;
+}
+p{
+  margin: 2px;
+}
+/* columns */
+.col-1{
+  width: 8.33%;
+}
+.col-2{
+  width: 16.67%;
+}
+.col-3{
+  width: 25%;
+}
+.col-4{
+  width: 33.33%;
+}
+.col-5{
+  width: 41.67%;
+}
+.col-6{
+  width: 50%;
+}
+.col-7{
+  width: 58.33%
+}
+.col-8{
+  width: 66.67%;
+}
+.col-9{
+  width: 75%;
+}
+.col-10{
+  width: 83.33%;
+}
+.col-11{
+  width: 91.67%;
+}
+.col-12{
+  width: 100%;
+}
