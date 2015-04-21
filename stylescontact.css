@@ -32,7 +32,13 @@ h3{
 }
 p{
   margin: 2px;
+  font-size: 18px;
+  font:didot;
 }
+input{
+  margin: 3px;
+}
+
 /* columns */
 .col-1{
   width: 8.33%;
