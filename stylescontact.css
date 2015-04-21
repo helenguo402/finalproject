@@ -38,7 +38,9 @@ p{
 input{
   margin: 3px;
 }
-
+textarea{
+  margin:3px;
+}
 /* columns */
 .col-1{
   width: 8.33%;
