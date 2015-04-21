@@ -17,44 +17,41 @@ a:visited{
 }
 a:hover{
   text-decoration: none;
-  color:pink;
+  color:#990000;
 }
 /* Alpha Omicron Pi Header Title on homepage*/
 h1{
   font-size: 100px;
-  color: black;
+  font-weight: bold;
+  color: #990000;
   font-family: didot;
   position: relative;
   text-align: center;
-  top: 50px;
+  top: 150px;
 }
-/*figure this shit out*/
+/*figure this shit out
 @media all and (max-device-width: 720px){
     h1{
         font-size: 50px;
     }
-}
+}*/
 
 h2{
   font-size: 50px;
-  color: black;
+  color: #990000;
   font-family: didot;
   text-align: center;
   position: relative;
-}
-h3{
-  font-size: 40px;
-  color: black;
-  font-family: didot;
-  text-align: center;
-  position: relative;
+  top: 80px;
 }
 /*background image*/
 body{
-background-image:url('alpha.jpg');
+background-image:url('white.jpg');
 background-repeat:no-repeat;
 background-size: 100%;
 background-position:center;
+min-height: 100%;
+min-width: 100%;
 }
 
 /* columns */
